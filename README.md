@@ -57,37 +57,36 @@ MY-APP/
 ├── vscode/
 ├── my-app/
 │
-│ ├── public/
-│ ├── node_modules/
+│── public/
+│── node_modules/
 │
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── components/
-│ │ ├── modules/
-│ │ ├── pages/
-│ │ │ ├── ChildProfile.jsx
-│ │ │ ├── FirestoreTest.jsx
-│ │ │ ├── Home.jsx
-│ │ │ ├── Login.jsx
-│ │ │ ├── ParentDashboard.jsx
-│ │ │ ├── Report.jsx
-│ │ │ ├── Signup.jsx
-│ │ │ ├── StudentDashboard.jsx
-│ │ │ ├── TeacherDashboard.jsx
-│ │ │ ├── Test.jsx
-│ │ │ ├── Training.jsx
-│ │ │
-│ │ ├── services/
-│ │ ├── styles/
-│ │ ├── utils/
-│ │ ├── App.jsx
-│ │ ├── App.css
-│ │ ├── index.css
-│ │ ├── main.jsx
+│── src/
+│ ├── assets/
+│ ├── components/
+│ ├── modules/
+│ ├── pages/
+│ │ ├── ChildProfile.jsx
+│ │ ├── FirestoreTest.jsx
+│ │ ├── Home.jsx
+│ │ ├── Login.jsx
+│ │ ├── ParentDashboard.jsx
+│ │ ├── Report.jsx
+│ │ ├── Signup.jsx
+│ │ ├── StudentDashboard.jsx
+│ │ ├── TeacherDashboard.jsx
+│ │ ├── Test.jsx
+│ │ ├── Training.jsx
+│ │
+│ ├── services/
+│ ├── styles/
+│ ├── utils/
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ ├── main.jsx
 │
 ├── package.json
 ├── vite.config.js
 ├── README.md
-
 
 
